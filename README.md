@@ -9,7 +9,7 @@ This `common-circles-capstone` project allows `visitors at the Holocause Museum 
 
 
 ## Technologies used
-Bootstrap, HTML, CSS
+Bootstrap, HTML, CSS, JavaScript
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
