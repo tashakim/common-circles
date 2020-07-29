@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/github/license/tashakim/common-circles-capstone)
 ![GitHub followers](https://img.shields.io/github/followers/tashakim?label=Followers&style=social)
 
-This `common-circles-capstone` project allows `visitors at the Holocause Museum and Learning Center (The Lab) in St. Louis` to engage in a new interactive space activity, with technological setup by Gallagher Associates. This website was designed for engagement in a subtle prejudices activity, developed by Ball State University.
+This `common-circles-capstone` project allows `visitors at the Holocause Museum and Learning Center (The Lab) in St. Louis` to engage in a new interactive space activity, with technological setup by Gallagher Associates. This website was designed for engagement in a `subtle prejudices activity`, developed by Ball State University.
 
 
 ## Technologies used
