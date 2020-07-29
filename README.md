@@ -14,7 +14,7 @@ Bootstrap, HTML, CSS
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-## Contributing to Movement-estimation
+## Contributing to common-circles-capstone
 To contribute to <common-circles-capstone>, follow these steps:
 
 1. Fork this repository.
