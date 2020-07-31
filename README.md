@@ -1,4 +1,4 @@
-# common-circles-capstone
+# common-circles
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/tashakim/common-circles-capstone)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tashakim/common-circles-capstone)
@@ -14,8 +14,8 @@ Bootstrap, HTML, CSS, JavaScript
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-## Contributing to common-circles-capstone
-To contribute to <common-circles-capstone>, follow these steps:
+## Contributing to common-circles
+To contribute to <common-circles>, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
